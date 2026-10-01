@@ -1,0 +1,5 @@
+# mochou-p/sauce/.gitignore
+
+target/
+root/sauce/store/
+
