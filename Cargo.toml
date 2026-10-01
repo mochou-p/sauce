@@ -7,7 +7,9 @@ edition = "2024"
 
 [dependencies]
 bytes   = "1.12.1"
+flate2  = "1.1.10"
 mlua    = { version = "0.12.1", features = ["lua55", "vendored"] }
 reqwest = { version = "0.13.5", features = ["blocking"]          }
+tar     = "0.4.46"
 zip     = "8.6.0"
 
